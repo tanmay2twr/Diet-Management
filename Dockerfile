@@ -1,4 +1,4 @@
 FROM openjdk:8
-ADD target/docker-diet-management.jar docker-diet-management.jar
+ADD target/dietManagement-0.0.1-SNAPSHOT.jar dietManagement-0.0.1-SNAPSHOT.jar
 EXPOSE 8090
-ENTRYPOINT ["java", "-jar", "docker-diet-management.jar"]
+ENTRYPOINT ["java", "-jar", "dietManagement-0.0.1-SNAPSHOT.jar"]
