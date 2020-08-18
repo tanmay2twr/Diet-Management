@@ -10,6 +10,7 @@ values
 ('aryan3@gmail.com','Aryan3','NA','NA','NA','NA','7052221444','wipro@123','mentor'),
 ('aryan4@gmail.com','Aryan4','NA','NA','NA','NA','7052221444','wipro@123','mentor'),
 ('aryan5@gmail.com','Aryan5','NA','NA','NA','NA','7052221444','wipro@123','mentor');
+
 insert into BATCHDETAILS
 (BATCHID,BATCHCATEGORY,BATCHSTARTDATE,BATCHENDDATE,BATCHGROUP,BATCHTENURE,BATCHSTATUS,BATCHSTRENGTH)
 values
